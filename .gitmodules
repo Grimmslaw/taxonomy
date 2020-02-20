@@ -1,0 +1,6 @@
+[submodule "taxonomy-java"]
+	path = taxonomy-java
+	url = https://github.com/Grimmslaw/taxonomy-java.git
+[submodule "taxonomy-py"]
+	path = taxonomy-py
+	url = https://github.com/Grimmslaw/taxonomy-py.git
